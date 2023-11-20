@@ -1,0 +1,12 @@
+C:\Users\777\source\repos\66666666\66666666\bin\Debug\66666666.exe.config
+C:\Users\777\source\repos\66666666\66666666\bin\Debug\66666666.exe
+C:\Users\777\source\repos\66666666\66666666\bin\Debug\66666666.pdb
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\66666666.csproj.AssemblyReference.cache
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\_66666666.Form1.resources
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\_66666666.Properties.Resources.resources
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\66666666.csproj.GenerateResource.cache
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\66666666.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\66666666.exe
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\66666666.pdb
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\_66666666.StudentByName.resources
+C:\Users\777\source\repos\66666666\66666666\obj\Debug\_66666666.SubjectByName.resources
